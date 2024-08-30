@@ -1,0 +1,220 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.food-munch-logo {
+    height: 40px;
+    width: 50px;
+}
+
+.bannersection {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size: cover;
+    height: 100vh;
+    color: white;
+
+}
+
+.bannersection-heading {
+    font-size: 30px;
+}
+
+.bannersection-paragraph {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.bannersection-button {
+    background-color: #d0b200;
+    border-width: 0px;
+    border-radius: 5px;
+    color: white;
+
+}
+
+.bannersection-custom-button {
+    border-color: white;
+    border-radius: 4px;
+    color: #d0b200;
+    font-weight: 600;
+}
+
+.sectionwcu {
+    height: 130vh;
+    font-family: "roboto";
+}
+
+.wcu-paragraph {
+    color: grey;
+}
+
+.wcu-card {
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    padding: 5px;
+    border-radius: 7px;
+    border-color: grey;
+    border-color: #e5eaf4;
+}
+
+.wcu-heading {
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.card-heading {
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.card-description {
+    color: grey;
+}
+
+.wcu-card-image {
+    height: 10vh;
+}
+
+.offer {
+    font-weight: 900;
+    font-style: italic;
+    font-size: 20px;
+    color: black;
+}
+
+.exploremenu-heading {
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.menu-card-title {
+    font-size: 28px;
+    font-weight: 500;
+    margin-top: 4px;
+}
+
+.menu-item-card {
+    border-radius: 5px;
+    background-color: white;
+    padding: 5px;
+}
+
+.healthy-food-section {
+    background-color: #f9fbfe;
+}
+
+.healthy-food-section-img {
+    width: 270px;
+}
+
+.healthy-food-section-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+
+.healthy-food-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.custom-button {
+    width: 130px;
+    height: 45px;
+    color: white;
+    background-image: linear-gradient(#d0b200, #a58d00);
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.delivery-and-payment-section-img {
+    width: 270px;
+}
+
+.delivery-and-payment-section-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+
+.delivery-and-payment-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+
+.thanking-customers-section {
+    background-image: radial-gradient(#fff8db, #fae38c);
+}
+
+.thanking-customers-section-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+
+.thanking-customers-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.thanking-customers-section-img {
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+i {
+    color: blue;
+    font-size: 32px;
+
+}
+
+.follow-us-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.follow-us-icon-container {
+    background-color: lightblue;
+    border-radius: 60px;
+    padding: 20px;
+    text-align: center;
+    margin: 10px;
+}
+
+.footer-section {
+    background-color: #0d2436;
+}
+
+.footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.modal-title {
+    color: #d0b200;
+    font-family: "bree serif";
+}
